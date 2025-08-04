@@ -36,3 +36,5 @@ $ pip install streamlit
 ```
 
 ----
+### Link data
+1) Download Data[here](https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews)
