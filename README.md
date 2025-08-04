@@ -30,5 +30,9 @@ export PS1="\[\033[01;32m\]\u@\h:\w\[\033[00m\]\$ "
 ```batch
 $ pip install -r requirements.txt
 ```
+### (Optional) Use streamlit
+```batch
+$ pip install streamlit
+```
 
 ----
